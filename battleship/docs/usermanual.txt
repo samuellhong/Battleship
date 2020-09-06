@@ -1,0 +1,19 @@
+
+0. Both players run shell commnads
+1. Enter the port number, must be the same to connect to the same game
+2. For player 1: type "W", for player 2: type "C"
+3. Both players enter their names
+4. You are then asked to place down your ships on the lower board (representing your board):
+		-Battleship(4)
+		-Carrier(5)
+		-Destroyer(3)
+		-Submarine(3)
+		-Patrol Boat(2)
+You need to place the head first of each boat and click where you want the tail of the boat to be
+5. Once, you have placed down your ships, press "Ready"
+6. Once both players are ready, Player 1 can start shooting
+	-to shoot (press on the upper board (representing their board))
+	-if you miss, "O" will appear, if you hit, "X" will appear
+7. Once player 1 pressed a location to shoot, player 2 can now shoot
+8. Keep taking turns until someone wins, a prompt will tell you if you sunk a ship, and which ship you sunk, as well as if someone has won
+9. to start a new game, both players exit out and start from step 0.
